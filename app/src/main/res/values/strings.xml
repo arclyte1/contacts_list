@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contacts list</string>
+    <string name="this_application_needs_read_contacts_permission_to_work">This application needs read contacts permission to work</string>
+    <string name="request_permission">Request permission</string>
+</resources>
